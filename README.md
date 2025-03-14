@@ -1,23 +1,29 @@
-## Diego Brocanelli
+# 👋 Olá! Eu sou Diego Brocanelli  
 
-Olá! Sou programador focado em:
+💻 **Engenheiro de Software | Arquiteto de Soluções | Mentor**  
 
-- Arquitetura de Software;
-- Padrões de projetos;
-- Qualidade de código.
+Com mais de **10 anos de experiência** em desenvolvimento de software, sou especializado em **arquitetura de sistemas**, **engenharia de requisitos** e **desenvolvimento full-stack**, com foco no back-end.  
 
-Apaixonado em desenvolver soluções para simplificar, acelerar e potencializar soluções por meio de tecnologia.
+Minha atuação é voltada para sistemas **críticos e legados**, garantindo sua evolução, performance e escalabilidade. Busco sempre **boas práticas de código**, padrões de design e metodologias ágeis para entregar soluções eficientes e de alto impacto.  
 
-[![Youtube](https://img.shields.io/static/v1?style=flat-square&logo=youtube&color=red&message=youyube&label=%20)](https://www.youtube.com/hhbr-tech)
-[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&color=blue&message=Linkedin&label=%20)](https://www.linkedin.com/in/diego-brocanelli/)
-[![twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&color=blue&message=Twitter&label=%20)](https://twitter.com/diego_b2)
-[![Diego Brocanelli](https://img.shields.io/static/v1?style=flat-square&color=yellow&message=diegobrocanelli.com.br&label=%20
-)](https://www.diegobrocanelli.com.br/)
-[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&color=black&message=GitHub&label=%20)](https://github.com/Diego-Brocanelli)
+### 🛠️ Tecnologias e Habilidades:  
+✅ Arquitetura de software e design de sistemas  
+✅ Desenvolvimento back-end com **PHP (vanilla e Laravel), C#, JavaScript e Android**  
+✅ Testes de software, TDD e ferramentas de qualidade de código  
+✅ Engenharia de requisitos e planejamento técnico  
+✅ Metodologias ágeis: **Scrum, Kanban**  
+✅ Mentoria e liderança técnica  
 
+### 🚀 Sobre mim:  
+Sou fundador do canal **hhbr** no YouTube, onde compartilho conhecimentos sobre tecnologia, além de manter este espaço para contribuir com a comunidade. Adoro compartilhar conhecimento e estou sempre em busca de novos desafios e oportunidades para crescer e inovar.  
 
+📫 **Conecte-se comigo:**  
+🔗 [GitHub](https://github.com/diego-brocanelli)  
+🔗 [LinkedIn](https://www.linkedin.com/in/diego-brocanelli/)  
+🔗 [Twitter](https://twitter.com/diego_b2)  
+🔗 [BlueSky](https://bsky.app/profile/diegobrocanelli.bsky.social)  
 
-[![Diego Brocanelli GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Brocanelli&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+Se está buscando um **desenvolvedor apaixonado por tecnologia, inovação e qualidade**, vamos conversar! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Brocanelli&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,md,cs,nginx,mysql,php,laravel,html,css,js,bootstrap)](https://skillicons.dev)
 
